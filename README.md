@@ -28,7 +28,7 @@
 | 🧠 **Trickks Machine Learning** | A futuristic ML concept website with interactive UI and animations. | [Live Demo](https://mortis-web.github.io/machine-learning/) | [Repo](https://github.com/Mortis-Web/machine-learning) |
 | 📚 **Learning Platform** | A modern e-learning web app with responsive UI and user-friendly layout. | [Live Demo](https://mortis-web.github.io/learningplatform/) | [Repo](https://github.com/Mortis-Web/learningplatform) |
 | 🌾 **Agriculture Faculty Website** | Official Faculty of Agriculture, El-Beheira University website built with Vanilla JS. | [Live Demo](https://mortis-web.github.io/agriculture-faculty/) | [Repo](https://github.com/Mortis-Web/agriculture-faculty) |
-| 💳 **ITAIF Jordan** | Tech event website for ticket purchasing and attendee management in Jordan. | (https://itaif-jo.com/) | — |
+| 💳 **ITAIF Jordan** | Tech event website for ticket purchasing and attendee management in Jordan. | [Live Demo](https://itaif-jo.com/) | — |
 
 ---
 
