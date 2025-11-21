@@ -4,7 +4,7 @@
 💡 Passionate about building smooth UI/UX experiences that blend design, motion, and modern web technologies.  
 🌍 Currently working remotely with a Jordan-based tech company.  
 
-🎨 **Portfolio:** [https://mortis-web.github.io/3D-Portfolio/](https://mortis-web.github.io/3D-Portfolio/)  
+🎨 **Portfolio:** [https://mortiswebportfolio.netlify.app/](https://mortiswebportfolio.netlify.app/) 
 
 ---
 
