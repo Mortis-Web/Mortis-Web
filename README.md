@@ -75,15 +75,14 @@
 ## 📈 Parallel Realities (GitHub Stats)
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mortis-Web&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mohamed's GitHub Stats" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortis-Web&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mortis-Web&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortis-Web&show_icons=true&theme=react&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mortis-Web&layout=compact&theme=react&hide_border=true)
+
+
+
+---
 
 ---
 ## 🌐 Connect With Me  
