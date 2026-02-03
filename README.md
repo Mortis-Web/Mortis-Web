@@ -70,8 +70,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
-
 ---
+
 ## 📈 Parallel Realities (GitHub Stats)
 
 <div align="center">
@@ -80,7 +80,6 @@
 </div>
 
 ---
-
 ## 🌐 Connect With Me  
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-3D--Portfolio-blue?style=for-the-badge)](https://mortis-web.github.io/3D-Portfolio/)  
