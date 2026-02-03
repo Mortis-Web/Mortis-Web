@@ -47,12 +47,15 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge)
 
 ### 🪄 Motion & 3D Experience
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=flat-square)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white&style=flat-square)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white&style=flat-square)
 ![Canvas API](https://img.shields.io/badge/-Canvas_API-white?style=flat-square&logoColor=black)
+![React Three Fiber](https://img.shields.io/badge/-R3F-black?style=for-the-badge&logo=react)
+![Anti-Gravity Physics](https://img.shields.io/badge/-Anti--Gravity-663399?style=for-the-badge&logo=physics)
 
 ### ⚙️ State & Backend Integration
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
@@ -69,11 +72,12 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
 
 ---
+## 📈 Parallel Realities (GitHub Stats)
 
-## 📊 GitHub Stats  
-
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortis-Web&show_icons=true&theme=react&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mortis-Web&layout=compact&theme=react&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mortis-Web&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortis-Web&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</div>
 
 ---
 
@@ -81,8 +85,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-3D--Portfolio-blue?style=for-the-badge)](https://mortis-web.github.io/3D-Portfolio/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Emara-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-emara-1649a9327/)
-[![GitHub](https://img.shields.io/badge/GitHub-Mortis--Web-black?style=for-the-badge&logo=github)](https://github.com/Mortis-Web)
-
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohamed.emara.597057/)
 ---
 
 ### ⚡ Fun Fact  
