@@ -1,27 +1,22 @@
-# 🛸 Welcome to my Digital Dimension
+# 👋 Hey there, I'm Mohamed Emara  
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=MOHAMED%20EMARA&fontSize=70&animation=fadeIn" width="100%" />
-  
-  **Frontend Architect | Creative Technologist | 3D Enthusiast**
-  
-  *Crafting high-performance, immersive web experiences where motion meets logic.*
-</div>
+🎯 **Frontend React Developer** with 2+ years of experience crafting responsive, animated, and high-performance web applications.  
+💡 Passionate about building smooth UI/UX experiences that blend design, motion, and modern web technologies.  
+🌍 Currently working remotely with a Jordan-based tech company.  
+
+🎨 **Portfolio:** [https://mortiswebportfolio.netlify.app/](https://mortiswebportfolio.netlify.app/) 
 
 ---
 
-## 🌌 The Vision
-I am a **Frontend React Developer** specializing in the intersection of design and engineering. My focus is on turning static layouts into dynamic, interactive stories using **React**, **GSAP**, and **Three.js**. Currently engineering remote solutions for the Jordanian tech ecosystem.
+## 🧠 About Me  
 
----
-
-## 🛠️ The Forge (Tech Stack)
-
-| **Core & Logic** | **Motion & 3D** | **State & Data** |
-| :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) | ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=flat-square) | ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square) |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) | ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white&style=flat-square) | ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square) |
-| ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) | ![Framer](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white&style=flat-square) | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square) |
+- 💻 Focused on **React**, **JavaScript**, and **TypeScript**  
+- 🎨 Love building **responsive**, **animated**, and **high-tech** UI/UX  
+- ⚙️ Skilled in **GSAP**, **Framer Motion**, **TailwindCSS**, **CSS3 animations**  
+- 🧩 Experienced with **Redux**, **Zustand**, and **GraphQL** for scalable state management and data flow  
+- 🌐 Comfortable using **Bootstrap** for rapid responsive prototyping  
+- 🧠 Currently diving deep into **✨ Three.js ✨** — exploring 3D web experiences and interactive scenes with real passion  
+- 🚀 Always learning, improving, and experimenting with new web technologies  
 
 ---
 
@@ -39,27 +34,55 @@ I am a **Frontend React Developer** specializing in the intersection of design a
 
 ---
 
-## 📈 Parallel Realities (GitHub Stats)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mortis-Web&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortis-Web&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</div>
+## 🧰 Tech Stack  
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
+
+**State Management & APIs:**  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff)
+
+**Animations & 3D:**  
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=fff)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=fff)
+![Three.js](https://img.shields.io/badge/✨_Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+**Tools & Platforms:**  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
 
 ---
 
-## 📡 Signal Strength
-*Connect with me to discuss 3D web, React architecture, or just to geek out over animations.*
+## 📊 GitHub Stats  
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=react)](https://mortiswebportfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-emara-1649a9327/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Mortis-Web)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortis-Web&show_icons=true&theme=react&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mortis-Web&layout=compact&theme=react&hide_border=true)
 
 ---
 
-### 🪄 The Philosophy
-> "Animation is not just motion — it’s emotion in motion. And 3D is where imagination becomes interaction."
+## 🌐 Connect With Me  
 
-<div align="right">
-  ✨ <i>Built with passion, precision, and a lot of Three.js.</i>
-</div>
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-3D--Portfolio-blue?style=for-the-badge)](https://mortis-web.github.io/3D-Portfolio/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Emara-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-emara-1649a9327/)
+[![GitHub](https://img.shields.io/badge/GitHub-Mortis--Web-black?style=for-the-badge&logo=github)](https://github.com/Mortis-Web)
+
+---
+
+### ⚡ Fun Fact  
+> “Animation is not just motion — it’s emotion in motion.”  
+> And now... **3D is where imagination becomes interaction.** 🪄
+
+---
+
+✨ _Built with passion, precision, and React (and lately, a lot of Three.js)._ ✨
