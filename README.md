@@ -75,9 +75,13 @@
 ## 📈 Parallel Realities (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mortis-Web&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortis-Web&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mortis-Web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohamed's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortis-Web&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mortis-Web&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 ## 🌐 Connect With Me  
@@ -88,7 +92,7 @@
 ---
 
 ### ⚡ Fun Fact  
-> “Animation is not just motion — it’s emotion in motion.”  
+> “Animation is not just motion — it’s emotion.”  
 > And now... **3D is where imagination becomes interaction.** 🪄
 
 ---
