@@ -83,7 +83,7 @@
 
 <div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mortis-Web&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>>
+</div>
 
 ---
 ## 🌐 Connect With Me  
