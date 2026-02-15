@@ -24,7 +24,7 @@
 
 | Project | Essence | Experience |
 | :--- | :--- | :---: |
-| ⚡ **Zentry** | Award-winning gaming site recreation with intense GSAP. | [**Live Demo**](https://devaptor.netlify.app/) |
+| ⚡ **Zentry** | Award-winning gaming site recreation with intense GSAP. | [**Live Demo**](https://zentry-mortis-replica.netlify.app/) |
 | 🍎 **Apple Replica** | iPhone 15 Pro site with 3D models and smooth scrolling. | [**Live Demo**](https://mortiswebphonestore.netlify.app/) |
 | 💎 **Brandorex** | High-end branding and interactive digital identity. | [**Live Demo**](https://brandorex-ahf6.vercel.app/) |
 | 🚀 **MK Agency** | Modern agency landing page with sleek transitions. | [**Live Demo**](https://mk-agency-six.vercel.app/) |
