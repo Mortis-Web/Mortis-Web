@@ -20,6 +20,26 @@
 
 ---
 
+## 👨‍💻 What I'm Doing Now  
+
+🔭 Currently improving my skills as a **Next.js Web Application Developer**  
+🌱 Learning **Advanced Next.js, TypeScript, Server Components, API Routes, and Full-Stack Architecture**  
+🧠 Deep diving into **State Management (Context API / Redux Toolkit / Zustand)** and **Scalable Clean Architecture**  
+⚡ Building high-performance, SEO-optimized, production-ready web applications  
+🏆 Team Leader (Group Leader) @ DEPI  
+🌟 Leading DevSync TEAM for our DEPI graduation project  
+
+---
+
+## 🤝 Collaboration & Goals  
+
+🤝 Open to collaborate on **Next.js web apps, SaaS platforms, and full-stack projects**  
+🎯 My goal is to build real-world scalable products and work as a **Professional Full-Stack React / Next.js Developer**  
+🚀 Focused on performance, UI/UX excellence, and production-level code quality  
+❤️ Actively participating in community volunteering and charity initiatives  
+
+---
+
 ## 🏗️ Selected Works
 
 | Project | Essence | Experience |
