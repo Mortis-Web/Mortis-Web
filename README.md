@@ -55,7 +55,6 @@
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white&style=flat-square)
 ![Canvas API](https://img.shields.io/badge/-Canvas_API-white?style=flat-square&logoColor=black)
 ![React Three Fiber](https://img.shields.io/badge/-R3F-black?style=for-the-badge&logo=react)
-![Anti-Gravity Physics](https://img.shields.io/badge/-Anti--Gravity-663399?style=for-the-badge&logo=physics)
 
 ### ⚙️ State & Backend Integration
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
@@ -65,11 +64,12 @@
 
 ### 🛠️ Development & Productivity
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white&style=flat-square)
+![Anti-Gravity Physics](https://img.shields.io/badge/-Anti--Gravity-663399?style=for-the-badge&logo=physics)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 ![Framer](https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white&style=flat-square)
 ![Spline](https://img.shields.io/badge/-Spline-000000?logo=spline&logoColor=white&style=flat-square)
