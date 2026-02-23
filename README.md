@@ -39,6 +39,18 @@
 ❤️ Actively participating in community volunteering and charity initiatives  
 
 ---
+## 🚀 Latest Work (Pinned)
+
+[![MK Agency – Next.js Web Application](https://image.thum.io/get/width/1200/https://mk-agency.org)](https://mk-agency.org/)
+
+> **MK Agency** — A modern, high-performance **Next.js web application** built with a strong focus on  
+> **SEO, speed, clean architecture, and premium UI/UX**.  
+>  
+> 🔹 Production-ready  
+> 🔹 Real client project  
+> 🔹 Scalable & responsive design  
+
+🔗 **Live Website:** https://mk-agency.org/
 
 ## 🏗️ Selected Works
 
