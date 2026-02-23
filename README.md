@@ -20,6 +20,22 @@
 
 ---
 
+## 🧭 Engineering Philosophy  
+
+- 🧠 **Clarity over cleverness** — readable code scales better than smart hacks  
+- ⚡ **Performance is a feature**, not an afterthought  
+- 🎨 **UI/UX is part of engineering**, not decoration  
+- 🧩 Prefer **composable, reusable components** over monoliths  
+- 🚀 Build for **real users, real devices, and real constraints**
+---
+## 📌 What I’m Known For  
+
+- High-performance **React & Next.js** interfaces  
+- Advanced **motion & animation systems** (GSAP / Framer Motion)  
+- Interactive **3D web experiences** with Three.js  
+- Turning complex ideas into **clean, usable products**
+---
+
 ## 👨‍💻 What I'm Doing Now  
 
 🔭 Currently improving my skills as a **Next.js Web Application Developer**  
@@ -39,6 +55,13 @@
 ❤️ Actively participating in community volunteering and charity initiatives  
 
 ---
+## 📍 Availability  
+
+- 💼 Open to **Frontend / Full-Stack React & Next.js roles**  
+- 🤝 Available for **freelance & contract projects**  
+- 🌍 Remote-friendly (MENA / EU time zones)
+---
+
 ## 🚀 Latest Work (Pinned)
 
 [![Lumina AI – Agentic AI Web Platform](https://image.thum.io/get/width/1200/https://lumina-psi-pearl.vercel.app)](https://lumina-psi-pearl.vercel.app)
@@ -61,9 +84,8 @@
 | :--- | :--- | :---: |
 | ⚡ **Zentry** | Award-winning gaming site recreation with intense GSAP. | [**Live Demo**](https://zentry-mortis-replica.netlify.app/) |
 | 🍎 **Apple Replica** | iPhone 15 Pro site with 3D models and smooth scrolling. | [**Live Demo**](https://mortiswebphonestore.netlify.app/) |
-| 💎 **Brandorex** | High-end branding and interactive digital identity. | [**Live Demo**](https://brandorex-ahf6.vercel.app/) |
+| 🦷 **SEVEN Digital Dental** | High-end **dental clinic branding** and interactive web presence focused on trust, clarity, and patient-friendly UX. | [**Live Demo**](https://seven-digital-dental.netlify.app/) |
 | 🚀 **MK Agency** | Modern agency landing page with sleek transitions. | [**Live Demo**](https://mk-agency-six.vercel.app/) |
-| 🎓 **Learning Hub** | User-centric e-learning platform with intuitive UX. | [**Live Demo**](https://mortis-web.github.io/learningplatform/) |
 | 🌾 **Agri-Faculty** | Official university faculty portal (Vanilla JS). | [**Live Demo**](https://mortis-web.github.io/agriculture-faculty/) |
 | 💳 **ITAIF Jordan** | Ticket management system for Jordan's tech leaders. | [**Live Demo**](https://itaif-jo.com/) |
 
@@ -79,17 +101,21 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7E018?logo=javascript&logoColor=black&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D26?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?logo=styled-components&logoColor=white&style=flat-square)
+
+---
 
 ### 🪄 Motion & 3D Experience
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=flat-square)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white&style=flat-square)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white&style=flat-square)
-![Canvas API](https://img.shields.io/badge/-Canvas_API-white?style=flat-square&logoColor=black)
-![React Three Fiber](https://img.shields.io/badge/-R3F-black?style=for-the-badge&logo=react)
+![Canvas API](https://img.shields.io/badge/-Canvas_API-ffffff?logo=html5&logoColor=black&style=flat-square)
+![React Three Fiber](https://img.shields.io/badge/-React_Three_Fiber-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+
+---
 
 ### ⚙️ State & Backend Integration
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
@@ -97,10 +123,12 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?logo=react-query&logoColor=white&style=flat-square)
 
+---
+
 ### 🛠️ Development & Productivity
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white&style=flat-square)
-![Anti-Gravity Physics](https://img.shields.io/badge/-Anti--Gravity-663399?style=for-the-badge&logo=physics)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+![Anti-Gravity Physics](https://img.shields.io/badge/-Anti--Gravity-663399?style=flat-square)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white&style=flat-square)
@@ -108,8 +136,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 ![Framer](https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white&style=flat-square)
 ![Spline](https://img.shields.io/badge/-Spline-000000?logo=spline&logoColor=white&style=flat-square)
-![Unicorn Studio](https://img.shields.io/badge/-Unicorn%20Studio-7B61FF?logo=unicorn&logoColor=white&style=flat-square)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Unicorn Studio](https://img.shields.io/badge/-Unicorn_Studio-7B61FF?logo=unicorn&logoColor=white&style=flat-square)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat-square)
 
 ---
 
