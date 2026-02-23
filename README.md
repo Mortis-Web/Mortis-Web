@@ -41,17 +41,20 @@
 ---
 ## 🚀 Latest Work (Pinned)
 
-[![MK Agency – Next.js Web Application](https://image.thum.io/get/width/1200/https://mk-agency.org)](https://mk-agency.org/)
+[![Lumina AI – Agentic AI Web Platform](https://image.thum.io/get/width/1200/https://lumina-psi-pearl.vercel.app)](https://lumina-psi-pearl.vercel.app)
 
-> **MK Agency** — A modern, high-performance **Next.js web application** built with a strong focus on  
-> **SEO, speed, clean architecture, and premium UI/UX**.  
+> **Lumina AI (LuminaDevEg)** — A modern **Agentic AI web platform** built to deliver intelligent, scalable, and user-centric AI solutions.  
 >  
-> 🔹 Production-ready  
-> 🔹 Real client project  
-> 🔹 Scalable & responsive design  
+> I am a **Co-Partner and the Main Frontend Developer**, and one of the **original trio who founded and built LuminaDevEg** from the ground up.  
+> I led the frontend architecture and implementation, focusing on performance, scalability, and premium UI/UX.  
+>  
+> 🔹 Agentic AI–driven platform  
+> 🔹 Co-founder & Main Frontend Developer  
+> 🔹 Production-ready, scalable web application  
+> 🔹 Clean architecture & high-performance UI  
 
-🔗 **Live Website:** https://mk-agency.org/
-
+🔗 **Live Platform:** https://lumina-psi-pearl.vercel.app/
+---
 ## 🏗️ Selected Works
 
 | Project | Essence | Experience |
