@@ -70,16 +70,34 @@
 ![Git](https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+![Framer](https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white&style=flat-square)
+![Spline](https://img.shields.io/badge/-Spline-000000?logo=spline&logoColor=white&style=flat-square)
+![Unicorn Studio](https://img.shields.io/badge/-Unicorn%20Studio-7B61FF?logo=unicorn&logoColor=white&style=flat-square)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 ---
 
 ## 📈 Parallel Realities (GitHub Stats)
 
+<div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mortis-Web&theme=github_dark" width="100%" />
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortis-Web&show_icons=true&theme=react&hide_border=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mortis-Web&layout=compact&theme=react&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mortis-Web&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mortis-Web&theme=github_dark" width="48%" />
 
+<br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Mortis-Web&background=0D1117&stroke=7A5CFF&ring=009DFF&fire=00F0FF&currStreakNum=00FFA3&currStreakLabel=009DFF&sideNums=009DFF&sideLabels=7A5CFF&dates=009DFF&hide_border=true" width="100%" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Mortis-Web&color=009DFF&style=flat-square&label=PROFILE+VIEWS" />
+
+</div>
 
 
 ---
@@ -90,6 +108,8 @@
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-3D--Portfolio-blue?style=for-the-badge)](https://mortis-web.github.io/3D-Portfolio/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Emara-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-emara-1649a9327/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohamed.emara.597057/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.mohammedemara@gmail.com)
+
 ---
 
 ### ⚡ Fun Fact  
