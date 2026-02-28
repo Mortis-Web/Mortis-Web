@@ -71,7 +71,7 @@
   <img 
     src="https://image.thum.io/get/width/1000/crop/600/https://lumina-psi-pearl.vercel.app" 
     alt="Lumina AI Preview" 
-    style="height: 500px; width: 100%; object-bin: cover; border-radius: 12px; border: 1px solid #333;"
+    style="height: 450px; width: 100%; object-bin: cover; border-radius: 12px; border: 1px solid #333;"
   />
 </a>
 
