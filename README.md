@@ -65,7 +65,7 @@
 - 🌍 Remote-friendly (MENA / EU time zones)
 ---
 
-## 🚀 Latest Work (Pinned)
+## 🚀 Latest Work
 
 [![Lumina AI – Agentic AI Web Platform Preview](https://image.thum.io/get/width/1000/https://lumina-psi-pearl.vercel.app)](https://lumina-psi-pearl.vercel.app)
 
