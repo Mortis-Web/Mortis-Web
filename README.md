@@ -75,10 +75,8 @@
              style="width:1000px; height:500px; object-fit:cover; border-radius:20px;" />
       </div>
     </foreignObject>
-    
     <circle cx="500" cy="250" r="50" fill="white" opacity="0.8" />
     <path d="M485 225 L530 250 L485 275 Z" fill="#060B14" />
-    
     <rect x="420" y="320" width="160" height="40" rx="20" fill="#6C63FF" />
     <text x="500" y="345" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">OPEN PROJECT</text>
   </svg>
