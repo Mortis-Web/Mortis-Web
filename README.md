@@ -68,18 +68,11 @@
 ## 🚀 Latest Work
 
 <a href="https://lumina-psi-pearl.vercel.app" target="_blank">
-  <svg width="1000" height="500" viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject x="0" y="0" width="1000" height="500">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <img src="https://image.thum.io/get/width/1000/crop/600/https://lumina-psi-pearl.vercel.app" 
-             style="width:1000px; height:500px; object-fit:cover; border-radius:20px;" />
-      </div>
-    </foreignObject>
-    <circle cx="500" cy="250" r="50" fill="white" opacity="0.8" />
-    <path d="M485 225 L530 250 L485 275 Z" fill="#060B14" />
-    <rect x="420" y="320" width="160" height="40" rx="20" fill="#6C63FF" />
-    <text x="500" y="345" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">OPEN PROJECT</text>
-  </svg>
+  <img 
+    src="https://image.thum.io/get/width/1000/crop/600/https://lumina-psi-pearl.vercel.app" 
+    alt="Lumina AI Preview" 
+    style="height: 500px; width: 100%; object-bin: cover; border-radius: 12px; border: 1px solid #333;"
+  />
 </a>
 
 ---
