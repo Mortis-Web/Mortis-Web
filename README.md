@@ -67,7 +67,13 @@
 
 ## 🚀 Latest Work
 
-[![Lumina AI – Agentic AI Web Platform Preview](https://image.thum.io/get/width/1000/https://lumina-psi-pearl.vercel.app)](https://lumina-psi-pearl.vercel.app)
+<a href="https://lumina-psi-pearl.vercel.app" target="_blank">
+  <img 
+    src="https://image.thum.io/get/width/1000/crop/600/https://lumina-psi-pearl.vercel.app" 
+    alt="Lumina AI Preview" 
+    style="height: 400px; width: 100%; object-bin: cover; border-radius: 12px; border: 1px solid #333;"
+  />
+</a>
 
 > **Lumina AI (LuminaDevEg)** — A modern **Agentic AI web platform** built to deliver intelligent, scalable, and user-centric AI solutions.  
 >  
