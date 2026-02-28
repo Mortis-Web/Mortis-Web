@@ -89,17 +89,6 @@
 > 🔹 Clean architecture & high-performance UI  
 
 
-> **Lumina AI (LuminaDevEg)** — A modern **Agentic AI web platform** built to deliver intelligent, scalable, and user-centric AI solutions.  
->  
-> I am a **Co-Partner and the Main Frontend Developer**, and one of the **original trio who founded and built LuminaDevEg** from the ground up.  
-> I led the frontend architecture and implementation, focusing on performance, scalability, and premium UI/UX.  
->  
-> 🔹 Agentic AI–driven platform  
-> 🔹 Co-founder & Main Frontend Developer  
-> 🔹 Production-ready, scalable web application  
-> 🔹 Clean architecture & high-performance UI  
-
-
 🔗 **Live Platform:** https://lumina-psi-pearl.vercel.app/
 
 ---
