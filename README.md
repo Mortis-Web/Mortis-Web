@@ -217,3 +217,5 @@
 ---
 
 ✨ _Built with passion, precision, and React (and lately, a lot of Three.js)._ ✨
+
+![snake gif](https://github.com/Mortis-Web/Mortis-Web/blob/output/github-snake-dark.svg)
