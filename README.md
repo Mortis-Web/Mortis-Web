@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me  
+## 💫 About Me  
 
 - 💻 Focused on **React**, **JavaScript**, and **TypeScript**  
 - 🎨 Love building **responsive**, **animated**, and **high-tech** UI/UX  
