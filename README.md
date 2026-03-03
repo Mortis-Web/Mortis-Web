@@ -6,7 +6,6 @@
 # 👋 Hey there, I'm Mohamed Emara
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=61DAFB&width=435&lines=Frontend+Next.Js+Developer;Three.Js+Enthusiast;Founding+team+member+of+Lumina+AI)](https://git.io/typing-svg)
 
 🎯 **Frontend React Developer** with 2+ years of experience crafting responsive, animated, and high-performance web applications.  
 💡 Passionate about building smooth UI/UX experiences that blend design, motion, and modern web technologies.  
