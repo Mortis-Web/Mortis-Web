@@ -1,8 +1,12 @@
-#<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Mohamed%20Emara&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20React%20Developer%20|%20Three.js%20Enthusiast&descSize=20&descAlignY=62" width="100%" />
+<div>
+
+<img src="banner.png" width="100%" alt="Mohamed Emara Banner" />
+
+
+# 👋 Hey there, I'm Mohamed Emara
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Frontend+Next.Js+Developer;Three.js+Enthusiast;Team+Leader+@+DEPI;Founder+of+Lumina+AI)](https://git.io/typing-svg)
 </div>
----
-## 👋 Hey there, I'm Mohamed Emara  
 
 🎯 **Frontend React Developer** with 2+ years of experience crafting responsive, animated, and high-performance web applications.  
 💡 Passionate about building smooth UI/UX experiences that blend design, motion, and modern web technologies.  
