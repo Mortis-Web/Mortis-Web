@@ -1,4 +1,8 @@
-# 👋 Hey there, I'm Mohamed Emara  
+#<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Mohamed%20Emara&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20React%20Developer%20|%20Three.js%20Enthusiast&descSize=20&descAlignY=62" width="100%" />
+</div>
+---
+## 👋 Hey there, I'm Mohamed Emara  
 
 🎯 **Frontend React Developer** with 2+ years of experience crafting responsive, animated, and high-performance web applications.  
 💡 Passionate about building smooth UI/UX experiences that blend design, motion, and modern web technologies.  
