@@ -197,7 +197,7 @@
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Mortis-Web&background=0D1117&stroke=7A5CFF&ring=009DFF&fire=00F0FF&currStreakNum=00FFA3&currStreakLabel=009DFF&sideNums=009DFF&sideLabels=7A5CFF&dates=009DFF&hide_border=true" width="100%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=dev-mohammed-emara&background=0D1117&stroke=7A5CFF&ring=009DFF&fire=00F0FF&currStreakNum=00FFA3&currStreakLabel=009DFF&sideNums=009DFF&sideLabels=7A5CFF&dates=009DFF&hide_border=true" width="100%" />
 
 <br/><br/>
 
