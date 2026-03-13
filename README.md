@@ -194,11 +194,13 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-mohammed-emara&theme=github_dark" width="48%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-mohammed-emara&theme=github_dark" width="48%" />
 
-<br/><br/>
+<br/>
+<br/>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=dev-mohammed-emara&background=0D1117&stroke=7A5CFF&ring=009DFF&fire=00F0FF&currStreakNum=00FFA3&currStreakLabel=009DFF&sideNums=009DFF&sideLabels=7A5CFF&dates=009DFF&hide_border=true" width="100%" />
 
-<br/><br/>
+<br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=dev-mohammed-emara&color=009DFF&style=flat-square&label=PROFILE+VIEWS" />
 
