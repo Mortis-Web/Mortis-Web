@@ -104,11 +104,10 @@
 
 | Project | Essence | Experience |
 | :--- | :--- | :---: |
-| ⚡ **Zentry** | Award-winning gaming site recreation with intense GSAP. | [**Live Demo**](https://zentry-mortis-replica.netlify.app/) |
+| ⚡ **Zentry** | Award-winning gaming site recreation with intense GSAP. | [**Live Demo**](https://zentry-emara-replica.netlify.app/) |
 | 🍎 **Apple Replica** | iPhone 15 Pro site with 3D models and smooth scrolling. | [**Live Demo**](https://mortiswebphonestore.netlify.app/) |
 | 🦷 **SEVEN Digital Dental** | High-end **dental clinic branding** and interactive web presence focused on trust, clarity, and patient-friendly UX. | [**Live Demo**](https://seven-digital-dental.netlify.app/) |
 | 🚀 **MK Agency** | Modern agency landing page with sleek transitions. | [**Live Demo**](https://mk-agency-six.vercel.app/) |
-| 🌾 **Agri-Faculty** | Official university faculty portal (Vanilla JS). | [**Live Demo**](https://mortis-web.github.io/agriculture-faculty/) |
 | 💳 **ITAIF Jordan** | Ticket management system for Jordan's tech leaders. | [**Live Demo**](https://itaif-jo.com/) |
 
 ---
